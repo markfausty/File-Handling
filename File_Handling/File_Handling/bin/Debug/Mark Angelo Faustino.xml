@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML Data-->
+<Person>
+  <Name>Mark Angelo Faustino</Name>
+  <Age>21</Age>
+  <Address>Mandaluyong City</Address>
+</Person>
